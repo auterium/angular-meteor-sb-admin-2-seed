@@ -1,0 +1,1 @@
+# angular-meteor-sb-admin-2-seed
